@@ -2,7 +2,7 @@
 
 Creado por: Bruno Pérez
 
-https://dsaw-2025-i.github.io/intro-to-asyncronism-bruno-perez/
+https://bepm.com.co/poke-api/
 
 # Desarrollo de Aplicaciones Web
 ## Introducción al Asíncronismo
