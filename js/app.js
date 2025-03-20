@@ -140,7 +140,7 @@ const createCards = async (pokemons, newCard = false) => {
         `;
 
         card.addEventListener("click", () => {
-            window.location.href = `/pokemon.html?id=${pokemon.id}&pokemon=${pokemon.name}`; 
+            window.location.href = `./pokemon.html?id=${pokemon.id}&pokemon=${pokemon.name}`; 
         });
 
         container.appendChild(card); 
